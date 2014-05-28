@@ -2,7 +2,7 @@ build-boilerplate
 =================
 Reusable build architecture on top of Gulp and Browserify
 
-#### Why do I need this? Yeoman rocks!
+#### Why do I need this? Scaffolding rocks!
 
 [Yeoman](http://yeoman.io/) is awesome, however, this project is only about build, not the whole app structure. The sample application provided uses Backbone and Marionette, but its super easy to use whatever frameworks you like, no opinions here.
 
