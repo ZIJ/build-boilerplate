@@ -1,6 +1,6 @@
 build-boilerplate
 =================
-Reusable build architecture on top of Gulp and Browserify
+Reusable build architecture on top of [Gulp](http://gulpjs.com/) and [Browserify](http://browserify.org/)
 
 #### Why do I need this? Scaffolding rocks!
 
