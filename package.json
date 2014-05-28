@@ -1,5 +1,5 @@
 {
-  "name": "fitbit-corporate",
+  "name": "build-boilerplate",
   "devDependencies": {
     "gulp": "~3.6.2",
     "gulp-if": "^1.2.1",

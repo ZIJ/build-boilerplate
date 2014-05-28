@@ -1,5 +1,5 @@
 {
-  "name": "fitbit-corporate",
+  "name": "build-boilerplate",
   "dependencies": {
     "bootstrap": "~3.1.1",
     "jquery": "~2.1.1"
