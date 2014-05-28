@@ -17,5 +17,5 @@ bower install
 ```
 #### Building for development (uncompressed js and css with source maps)
 `gulp`
-#### Building for development (minified js and css)
+#### Building for production (minified js and css)
 `gulp --type procuction`
