@@ -4,7 +4,7 @@ Reusable build architecture on top of Gulp and Browserify
 
 #### Why do I need this? Scaffolding rocks!
 
-[Yeoman](http://yeoman.io/) is awesome, really. However, this project is only about build, not the whole app structure. The sample app provided uses Backbone and Marionette, but all it does is just rendering a list of sample entities, so you can use whatever frameworks you like, no opinions here. LESS can also can be easily removed or replaces with SASS or Stylus.
+[Yeoman](http://yeoman.io/) is awesome, really. However, this project is only about build, not the whole app structure. The sample app provided uses Backbone and Marionette, but all it does is just rendering a list of sample entities, so you can use whatever frameworks you like, no opinions here. LESS can also can be easily removed or replaced with SASS or Stylus.
 
 #### Sources structure
 
